@@ -6,5 +6,7 @@ public class Random {
         System.out.println("This is our new branch");
 
         //this line is edited in github directly
+
+        //edited from github master
     }
 }
