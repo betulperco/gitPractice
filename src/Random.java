@@ -9,5 +9,12 @@ public class Random {
         //hello
 
         System.out.println("new changes in feature-a");
+
+        //this line is edited in directly
+
+        System.out.println("this is new edit in master");
+
+        //this is new edit from master
+        //this is merged version
     }
 }
