@@ -6,5 +6,7 @@ public class Random {
         System.out.println("This is our new branch");
 
         //updated from github feature-a branch
+
+        System.out.println("new changes in feature-a");
     }
 }
