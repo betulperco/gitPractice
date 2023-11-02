@@ -4,5 +4,7 @@ public class Random {
         System.out.println("this class is about git practice");
 
         System.out.println("This is our new branch");
+
+        //updated from github feature-a branch
     }
 }
