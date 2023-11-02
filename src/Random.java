@@ -15,5 +15,6 @@ public class Random {
         System.out.println("this is new edit in master");
 
         //this is new edit from master
+        //this is merged version
     }
 }
