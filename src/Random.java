@@ -8,5 +8,7 @@ public class Random {
         //this line is edited in github directly
 
         System.out.println("this is new edit in master");
+
+        //this is new edit from github master
     }
 }
